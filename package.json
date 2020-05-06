@@ -4,7 +4,7 @@
   "description": "A project used to test and demonstrate the terra-functional-testing changes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tt-test"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/StephenEsser/test-runner-example/issues"
   },
-  "homepage": "https://github.com/StephenEsser/test-runner-example#readme"
+  "homepage": "https://github.com/StephenEsser/test-runner-example#readme",
+  "devDependencies": {
+    "@cerner/terra-functional-testing": "https://github.com/cerner/terra-toolkit/blob/test-runner-setup/packages/terra-functional-testing/cerner-terra-functional-testing-0.0.0.tgz?raw=true"
+  }
 }
