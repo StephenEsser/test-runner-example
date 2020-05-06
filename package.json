@@ -1,0 +1,19 @@
+{
+  "name": "test-runner-example",
+  "version": "1.0.0",
+  "description": "A project used to test and demonstrate the terra-functional-testing changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenEsser/test-runner-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenEsser/test-runner-example/issues"
+  },
+  "homepage": "https://github.com/StephenEsser/test-runner-example#readme"
+}
